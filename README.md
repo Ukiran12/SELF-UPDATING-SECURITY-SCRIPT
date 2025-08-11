@@ -137,22 +137,8 @@ V Uday Kiran
 Cybersecurity Enthusiast | B.Tech CSE Student
 📧 vuday8463@gmail.com | 📱 +91 91824 41078
 
-📜 License
-This project is licensed under the MIT License – feel free to use and modify with attribution.
-
-yaml
-Copy
-Edit
-
----
-
-If you want, I can also **add GitHub-friendly badges, screenshots, and usage GIFs** so your README looks more attractive and professional on your repo page.  
-Do you want me to prepare that version?
 
 
 
 
 
-
-
-You said:
